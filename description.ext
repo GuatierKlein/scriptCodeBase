@@ -1,0 +1,12 @@
+#include "GUI\defines.hpp"
+#include "GUI\GUI_dialog.hpp"
+#include "GUI\GUI_kit_select.hpp"
+#include "Sounds\Sounds.hpp"
+#include "scripts\kit_select\insignias.hpp"
+
+respawn = 3;
+respawnTemplatesCiv[] = { "Spectator" };
+respawnDelay = 60;
+
+
+
